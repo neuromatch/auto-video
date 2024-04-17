@@ -6,4 +6,4 @@ Scripts to automate uploading course content
 - run ```pip install -r requirements.txt```
 - run ```python upload_to_yt.py```
 
-make sure you videos are in a dir named "vids"
+make sure your videos are in a dir named "vids"
